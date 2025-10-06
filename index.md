@@ -5,3 +5,9 @@ One Piece is een Japanse manga- en animeserie gemaakt door Eiichiro Oda, die sin
 Met meer dan 500 miljoen verkochte exemplaren wereldwijd is One Piece niet alleen de bestverkochte manga aller tijden, maar ook een cultureel fenomeen dat generaties heeft geïnspireerd. De serie staat bekend om zijn rijke worldbuilding, complexe verhaallijnen, memorabele personages en thema's zoals vriendschap, vrijheid en het nastreven van je dromen. De anime-adaptatie, die in 1999 van start ging, telt inmiddels meer dan 1000 afleveringen en blijft wereldwijd populair.
 
 One Piece onderscheidt zich door zijn unieke mix van avontuur, humor, emotionele diepgang en epische gevechten, wat het tot een van de meest geliefde en langstlopende series in de geschiedenis van manga en anime maakt.
+
+## Ontdek meer
+
+- [Personages](personages.md) - Leer meer over de Straw Hat Pirates en andere iconische personages
+- [Verhaal](verhaal.md) - Duik in de epische zoektocht naar One Piece
+- [Locaties](locaties.md) - Verken de diverse wereld van One Piece
